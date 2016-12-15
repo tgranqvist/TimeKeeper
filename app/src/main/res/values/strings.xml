@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Time Keeper</string>
+    <string name="action_export">Export</string>
+    <string name="action_about">Give feedback</string>
+    <string name="title_about">About Time Keeper</string>
+    <string name="label_cb_velho">Velho OK</string>
+    <string name="text_about">Once upon a time, there was an app</string>
+</resources>
